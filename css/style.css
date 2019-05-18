@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+#header {
+    margin: 0 0 0 0;
+    height: 100%;
+}
+
+body {
+	background: url('../images/real_cf_@2X.png')
+}
+
+.player-score, .computer-score {
+	margin-top: 20px;
+}
+
+.score {
+	height: 310px;
+}
+
+h4 {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
